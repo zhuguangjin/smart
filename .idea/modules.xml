@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/smart.iml" filepath="$PROJECT_DIR$/.idea/smart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-example/smart-example.iml" filepath="$PROJECT_DIR$/smart-example/smart-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-framework/smart-framework.iml" filepath="$PROJECT_DIR$/smart-framework/smart-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-plugin-rest/smart-plugin-rest.iml" filepath="$PROJECT_DIR$/smart-plugin-rest/smart-plugin-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-plugin-security/smart-plugin-security.iml" filepath="$PROJECT_DIR$/smart-plugin-security/smart-plugin-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-plugin-soap/smart-plugin-soap.iml" filepath="$PROJECT_DIR$/smart-plugin-soap/smart-plugin-soap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-plugin-rest/smart-pluginrest.iml" filepath="$PROJECT_DIR$/smart-plugin-rest/smart-pluginrest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-plugin-security/smart-pluginsecurity.iml" filepath="$PROJECT_DIR$/smart-plugin-security/smart-pluginsecurity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-plugin-soap/smart-pluginsoap.iml" filepath="$PROJECT_DIR$/smart-plugin-soap/smart-pluginsoap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-simpleMVC/smart-simpleMVC.iml" filepath="$PROJECT_DIR$/smart-simpleMVC/smart-simpleMVC.iml" />
     </modules>
   </component>
 </project>
